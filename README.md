@@ -5,7 +5,7 @@ OBS: Essa árvore não possui a função AVL de balanceamento.
 
 Funcionalidade de Remoção:
 
-Welcome to the ArvoreBinaria wiki!
+
 This code was created for academic purposes, the code is capable of creating and removing nodes from a binary tree, an efficient search algorithm that uses pointers to manipulate nodes.
 In this repository there is the tree code without using recursion and the code using recursion in Java.
 The remove nodes function can reformulate the tree in cases where the nodes have children. 
